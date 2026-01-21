@@ -21,10 +21,9 @@ Understand basic networking concepts and how systems communicate over a network 
 
 ### Ping Test
 ![ping](screenshots/ping.png)
-###Ping Test 1
-![ping](screenshots/ping(1).png)
+
 ### DNS Resolution
-![nslookup](screenshots/trace.png")
+![nslookup](screenshots/trace.png)
 
 ## Conclusion
 This task provided hands-on understanding of networking fundamentals required for DevOps roles.
